@@ -1,6 +1,3 @@
-Below is the raw Markdown code for your `README.md`. You can copy and paste this directly into your file.
-
-```markdown
 # 🐱 Kitten Memory Game
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
