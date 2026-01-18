@@ -15,7 +15,6 @@ Memory matching game.
 1.  **Start:** The game begins as soon as the page loads.
 2.  **Objective:** Flip two cards to find a matching pair of kittens.
 3.  **Rules:** * If the cards match, they stay flipped.
-    * If they don't match, they flip back over after a short delay.
 4.  **Victory:** Match all pairs in the shortest time and fewest moves possible!
 ---
 
