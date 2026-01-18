@@ -37,7 +37,7 @@ If you want to run this project locally or contribute:
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/kostassliazas/memory-game-kittens.git](https://github.com/kostassliazas/memory-game-kittens.git)
+git clone https://github.com/kostassliazas/memory-game-kittens.git
 
 ```
 
