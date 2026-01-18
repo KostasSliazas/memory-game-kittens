@@ -4,7 +4,7 @@
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 [![Deployment](https://img.shields.io/badge/deployed-GitHub%20Pages-blue)](https://kostassliazas.github.io/memory-game-kittens/)
 
-A polished, responsive, and interactive memory matching game built with modern web technologies. Challenge your brain by finding pairs of adorable kittens while tracking your moves and time.
+Memory matching game.
 
 **[✨ Play the Game Here](https://kostassliazas.github.io/memory-game-kittens/)**
 
