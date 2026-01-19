@@ -1,10 +1,10 @@
-# 🐱 Kitten Memory Game
+# Kitten Memory Game
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 [![Deployment](https://img.shields.io/badge/deployed-GitHub%20Pages-blue)](https://kostassliazas.github.io/memory-game-kittens/)
 
-Memory matching game.
+Memory cards matching game.
 
 **[✨ Play the Game Here](https://kostassliazas.github.io/memory-game-kittens/)**
 
@@ -22,9 +22,9 @@ Memory matching game.
 
 ```text
 ├── index.html          # Main entry point
-├── css/style.css       # Custom styling and animations
+├── css/style.css       # Custom styling
 ├── js/main.js          # Core game logic and event handlers
-├── img/                # Images, icons, and kitten sprites
+├── img/                # Images, icons
 └── README.md           # Project documentation
 
 ```
@@ -54,7 +54,7 @@ Simply open `index.html` in your preferred browser.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create.
 
@@ -66,7 +66,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 ---
 
-## 📄 License
+## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
