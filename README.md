@@ -6,11 +6,11 @@
 
 Memory cards matching game.
 
-**[✨ Play the Game Here](https://kostassliazas.github.io/memory-game-kittens/)**
+**[Play the Game Here](https://kostassliazas.github.io/memory-game-kittens/)**
 
 ---
 
-## 🕹️ How to Play
+## How to Play
 
 1.  **Start:** The game begins as soon as the page loads.
 2.  **Objective:** Flip two cards to find a matching pair of kittens.
@@ -18,20 +18,20 @@ Memory cards matching game.
 4.  **Victory:** Match all pairs in the shortest time and fewest moves possible!
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 ├── index.html          # Main entry point
 ├── css/style.css       # Custom styling
-├── js/main.js          # Core game logic and event handlers
-├── img/                # Images, icons
+├── js/main.js          # JavaScript (vanilla)
+├── img/                # Images (*.svg)
 └── README.md           # Project documentation
 
 ```
 
 ---
 
-## 🔧 Installation & Local Development
+## Installation & Local Development
 
 If you want to run this project locally or contribute:
 
